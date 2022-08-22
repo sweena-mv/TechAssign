@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e269cac26774420d963",
+    "revision": "de4662d187d48112e649",
     "url": "/TechAssign/static/css/main.afd1fac1.chunk.css"
   },
   {
-    "revision": "4e269cac26774420d963",
-    "url": "/TechAssign/static/js/main.4e269cac.chunk.js"
+    "revision": "de4662d187d48112e649",
+    "url": "/TechAssign/static/js/main.de4662d1.chunk.js"
   },
   {
     "revision": "bdc9cc5adfd88a9e6114",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/TechAssign/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "91af53bd002892bb5c6d1a21b2fc24cf",
+    "revision": "e4461322764c3b505767e852d236a005",
     "url": "/TechAssign/index.html"
   }
 ];
