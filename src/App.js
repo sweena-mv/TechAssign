@@ -12,12 +12,12 @@ function App() {
 
  return (
   
-    <Router>
+    <Router basename="/home">
     <Navbar />
   
 <Switch>
 <Redirect exact from="/" to="/home" />
-  <Route path="/home">
+  <Route path="/">
     <Home />
   </Route>
 <Route path="/home" exact  component={Home} />
