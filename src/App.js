@@ -11,12 +11,15 @@ function App() {
 
 
  return (
+  
     <Router>
     <Navbar />
-<Switch>
+ 
+
+
 <Route path="/" exact  component={Home} />
 
-</Switch>
+
 
     </Router>
     
