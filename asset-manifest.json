@@ -1,7 +1,7 @@
 {
   "main.css": "/TechAssign/static/css/main.afd1fac1.chunk.css",
-  "main.js": "/TechAssign/static/js/main.9a26a39b.chunk.js",
-  "main.js.map": "/TechAssign/static/js/main.9a26a39b.chunk.js.map",
+  "main.js": "/TechAssign/static/js/main.4e269cac.chunk.js",
+  "main.js.map": "/TechAssign/static/js/main.4e269cac.chunk.js.map",
   "static/js/1.bdc9cc5a.chunk.js": "/TechAssign/static/js/1.bdc9cc5a.chunk.js",
   "static/js/1.bdc9cc5a.chunk.js.map": "/TechAssign/static/js/1.bdc9cc5a.chunk.js.map",
   "static/css/2.bd388e25.chunk.css": "/TechAssign/static/css/2.bd388e25.chunk.css",
@@ -13,6 +13,6 @@
   "static/css/main.afd1fac1.chunk.css.map": "/TechAssign/static/css/main.afd1fac1.chunk.css.map",
   "static/css/2.bd388e25.chunk.css.map": "/TechAssign/static/css/2.bd388e25.chunk.css.map",
   "index.html": "/TechAssign/index.html",
-  "precache-manifest.f19e01f862bbcda59058d68168783f7a.js": "/TechAssign/precache-manifest.f19e01f862bbcda59058d68168783f7a.js",
+  "precache-manifest.1d34a963714b7f7a02eb888b08cb507f.js": "/TechAssign/precache-manifest.1d34a963714b7f7a02eb888b08cb507f.js",
   "service-worker.js": "/TechAssign/service-worker.js"
 }
