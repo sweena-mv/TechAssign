@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "01515847a70807689dde",
+    "revision": "69946843bc78f04b7b66",
     "url": "/TechAssign/static/css/main.afd1fac1.chunk.css"
   },
   {
-    "revision": "01515847a70807689dde",
-    "url": "/TechAssign/static/js/main.01515847.chunk.js"
+    "revision": "69946843bc78f04b7b66",
+    "url": "/TechAssign/static/js/main.69946843.chunk.js"
   },
   {
     "revision": "bdc9cc5adfd88a9e6114",
     "url": "/TechAssign/static/js/1.bdc9cc5a.chunk.js"
   },
   {
-    "revision": "2ec39553f43716b54c48",
+    "revision": "4468755068e862e06ecf",
     "url": "/TechAssign/static/css/2.bd388e25.chunk.css"
   },
   {
-    "revision": "2ec39553f43716b54c48",
-    "url": "/TechAssign/static/js/2.2ec39553.chunk.js"
+    "revision": "4468755068e862e06ecf",
+    "url": "/TechAssign/static/js/2.44687550.chunk.js"
   },
   {
     "revision": "b09cc2703c2c0e6d9a6a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/TechAssign/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "010e41c460bbd0bce480a9f81d6b4b51",
+    "revision": "206ca8853db64f0e93e3f524ef22b40e",
     "url": "/TechAssign/index.html"
   }
 ];
