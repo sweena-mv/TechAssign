@@ -2,7 +2,7 @@
   "name": "bolt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sweena-mv.github.io/MyAssignment3",
+  "homepage": "http://sweena-mv.github.io/TechAssign",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
