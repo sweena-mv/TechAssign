@@ -12,7 +12,7 @@ function App() {
 
  return (
   
-    <Router basename="/home">
+    <Router basename="/pages">
     <Navbar />
   
 <Switch>
