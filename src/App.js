@@ -17,10 +17,10 @@ function App() {
   
 <Switch>
 <Redirect exact from="/" to="/home" />
-  <Route path="/">
+  <Route path="/home">
     <Home />
   </Route>
-<Route path="/" exact  component={Home} />
+<Route path="/home" exact  component={Home} />
 
 </Switch>
 
