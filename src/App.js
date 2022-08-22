@@ -14,12 +14,12 @@ function App() {
   
     <Router>
     <Navbar />
-    <Redirect exact from="/" to="/home" />
+  
+<Switch>
+<Redirect exact from="/" to="/home" />
   <Route path="/home">
     <Home />
   </Route>
-<Switch>
-<Redirect exact from="/" to="/home" />
 <Route path="/" exact  component={Home} />
 
 </Switch>
